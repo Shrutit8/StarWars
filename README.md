@@ -20,10 +20,3 @@ yarn run dev
 ## Link
 
 Code will run at local host. At my end this was the  [Link]( http://localhost:8081). It can be different for your machine.
-
-
-## Time Taken
-
-Approximately 8 hours were taken to finish the assignment. My main focus was on the link navigation and routing aspect. Styling has been minimalist. 
-
-Let me know if you require any clarification or face any error while installing.
