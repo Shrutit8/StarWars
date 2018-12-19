@@ -6,7 +6,7 @@ The following code has been created to fetch the list of StarWars characters fro
 
 Use the Starwars.zip file to install StarWars application.
 
--> Clone/Download the [Repo File](https://github.com/Shrutit8/StarWars).
+-> Clone/Download the [Repo File](https://github.com/Shrutit8/StarWars)
 
 -> Run the following command
 
