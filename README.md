@@ -1,21 +1,29 @@
-# starwars
+# Starwars
 
-> A website to display information about all StarWars characters
+The following code has been created to fetch the list of StarWars characters from an API and to display character detail for each character on clicking the corresponding link of the character.
 
-## Build Setup
+## Installation
 
-``` bash
-# install dependencies
-npm install
+Use the Starwars.zip file to install StarWars application.
 
-# serve with hot reload at localhost:8080
-npm run dev
+-> Clone/Download the [Repo File](https://github.com/Shrutit8/StarWars).
 
-# build for production with minification
-npm run build
+-> Run the following command
 
-# build for production and view the bundle analyzer report
-npm run build --report
+```bash
+
+yarn install
+yarn run dev
+
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## Link
+
+Code will run at local host. At my end this was the  [Link]( http://localhost:8081). It can be different for your machine.
+
+
+## Time Taken
+
+Approximately 8 hours were taken to finish the assignment. My main focus was on the link navigation and routing aspect. Styling has been minimalist. 
+
+Let me know if you require any clarification or face any error while installing.
